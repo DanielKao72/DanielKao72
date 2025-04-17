@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielkao72" alt="danielkao72" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform and Android**
+- 🌱 I’m currently learning **Google Cloud Platform and Android.**
 
 - 👯 I’m looking to collaborate on **beginner-friendly open-source projects and small web dev teams where I can grow my skills and help bring ideas to life.**
 
 - 🤝 I’m looking for help with **improving my coding practices, debugging techniques, and real-world project experience.**
 
-- 💬 Ask me about **SW life cycle, web development and SW quality**
+- 💬 Ask me about **Software life cycle, Web development and Software quality.**
 
 - 📫 How to reach me **j.daniel.kao@outlook.com**
 
