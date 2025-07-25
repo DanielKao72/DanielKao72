@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **j.daniel.kao@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vhizuuywJVCqVp6hQ7KK9Y2l_0eGZHZL/view?usp=sharing](https://drive.google.com/file/d/1vhizuuywJVCqVp6hQ7KK9Y2l_0eGZHZL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16l6s0NK1QmBH9KuZFLHoR2fmLgFT8j-t/view?usp=sharing](https://drive.google.com/file/d/16l6s0NK1QmBH9KuZFLHoR2fmLgFT8j-t/view?usp=sharing)
 
 - 🧠 Fun fact: **I treat programming like a puzzle. Solving problems is my kind of fun.**
 
